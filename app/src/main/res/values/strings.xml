@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+]    <!--Application Font-->
+    <string name="font_regular">font/cerapro_regular.ttf</string>
+    <string name="font_bold">fonts/cerapro_bold.ttf</string>
+    <string name="font_semibold">fonts/cerapro_medium.ttf</string>
+    <string name="font_heading">fonts/cerapro_black.ttf</string>
+    <string name="font_light">fonts/cerapro_light.ttf</string>
+
+    <string name="font_italic">fonts/Gilroy-Bold-Italic.otf</string>
+
+</resources>
+
+

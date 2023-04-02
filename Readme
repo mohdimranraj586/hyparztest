@@ -1,0 +1,21 @@
+
+
+	Technology Stack -
+
+    a)	Programming languages: Kotlin 1.3.70 or  Java
+    b)	Toolkit: Android Studio 4.1.2  & Android Developer Tools
+    c)	JDK: 9 version
+    d)	SDK: Target Android SDK 30  and  Min SDK Version 21
+    e)	Device Support: Android Lollipop and above(latest version is Android 11)
+    f)	Architecture Pattern: MVVM
+    g)	Push Notifications: Firebase For Android
+    h)  Database: Room Architecture
+    i)  Support SDK: Zendesk
+
+
+    Four Code environment are exists in build.gradle file.
+
+    1. dev - Hyparz Environment
+    2. staging - Hyparz Staging Environment
+    3. client_staging - Client Staging Environment
+    4. production - Production Store Environment
