@@ -36,6 +36,7 @@ abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel<*>> : AppComp
     BaseFragment.Callback, CommonNavigator {
 // Imran First Commit
 // Imran Second Commit
+// Imran Third Commit
     /**
      * Get view data binding.
      *
