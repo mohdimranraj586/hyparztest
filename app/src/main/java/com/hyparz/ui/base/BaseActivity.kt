@@ -35,6 +35,7 @@ import io.reactivex.disposables.CompositeDisposable
 abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel<*>> : AppCompatActivity(),
     BaseFragment.Callback, CommonNavigator {
 // Imran First Commit
+// Imran Second Commit
     /**
      * Get view data binding.
      *
