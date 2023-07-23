@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zendesk:guide:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d4edccb0c8729b60e1f631bbb6d2106e/jetified-guide-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d4edccb0c8729b60e1f631bbb6d2106e/jetified-guide-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d4edccb0c8729b60e1f631bbb6d2106e/jetified-guide-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/guide/1.0.0/64a42896893f9e02ad1af4d7c14fb1bb402bc7ae/guide-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/guide/1.0.0/5d114b899f6b6f05e2a97b0b0bf90cac1250a942/guide-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

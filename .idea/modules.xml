@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyparztest.iml" filepath="$PROJECT_DIR$/.idea/modules/hyparztest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hyparzuser.iml" filepath="$PROJECT_DIR$/.idea/modules/hyparzuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hyparzuser.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hyparzuser.app.iml" />
     </modules>
   </component>
 </project>

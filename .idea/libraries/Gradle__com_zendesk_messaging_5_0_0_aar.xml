@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zendesk:messaging:5.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72b76095be3414ae5edb198996f1bd8e/jetified-messaging-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72b76095be3414ae5edb198996f1bd8e/jetified-messaging-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/72b76095be3414ae5edb198996f1bd8e/jetified-messaging-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/messaging/5.0.0/ce86d74dde696fdd1761aae121792aea2c59a406/messaging-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/messaging/5.0.0/e31e0cc5086684991b9b3bce478f0c523aa23ec8/messaging-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

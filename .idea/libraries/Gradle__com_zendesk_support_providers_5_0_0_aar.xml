@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zendesk:support-providers:5.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c457d831b139a77870dbce6bc31b922/jetified-support-providers-5.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c457d831b139a77870dbce6bc31b922/jetified-support-providers-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c457d831b139a77870dbce6bc31b922/jetified-support-providers-5.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0c457d831b139a77870dbce6bc31b922/jetified-support-providers-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/support-providers/5.0.0/4779608b6725798c5e56396716b56512f60708be/support-providers-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/support-providers/5.0.0/b629104c48e102a70490868d6c2d8e90471e8955/support-providers-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zendesk:core:4.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7372832ca4c1f3e8ba0ccc0f6afe9237/jetified-core-4.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7372832ca4c1f3e8ba0ccc0f6afe9237/jetified-core-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7372832ca4c1f3e8ba0ccc0f6afe9237/jetified-core-4.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/core/4.0.0/50ed31687ca19014df5daaefd4e737b7cc880e47/core-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zendesk/core/4.0.0/6d3f176fc470227f1f2150edb37cd19daaa345c2/core-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
