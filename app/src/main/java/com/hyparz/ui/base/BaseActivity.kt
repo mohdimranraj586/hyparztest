@@ -37,6 +37,8 @@ abstract class BaseActivity<T : ViewDataBinding, V : BaseViewModel<*>> : AppComp
 // Imran First Commit
 // Imran Second Commit
 // Imran Third Commit
+// Imran Fourth Commit
+
     /**
      * Get view data binding.
      *
